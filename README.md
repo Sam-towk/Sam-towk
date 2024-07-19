@@ -1,24 +1,24 @@
-<h1 align="left">Hello There 👋</h1>
-
-###
-
+<h1 align="left">Oi 👋</h1>
+<h3 align="left">Vai um cafezin ☕?</h3>
+<br clear="both">
 <div align="right">
   <a href="https://open.spotify.com/user/towkienn">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=towkienn&count=1&unique=false" alt="Spotify recently played"  />
   </a>
-</div>
+
 
 ###
+
 
 <br clear="both">
 
 <img align="right" src="https://profile-counter.glitch.me/Sam-towk/count.svg?"  />
+</div>
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
 
-###
+<h3 align="left">👩‍💻  Um pouco sobre mim</h3>
 
 <br clear="both">
 
